@@ -1,0 +1,110 @@
+.footer {
+    background-color: #2D4689;
+    height: 100%;
+    width: 100%;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 100px;
+}
+.container .mascote {
+    margin-top: 32px;
+}
+.opcao {
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+.opcao, h3 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.opcao, h6 {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+}
+.sobre {
+    margin-right: 140px;
+}
+.sobre .suporte, h3 {
+    margin-bottom: 10px;
+}
+.sobre .suporte, h6 {
+    margin-top: 10px;
+}
+.sobre .suporte, h6:hover {
+    color: #ED3237;
+    
+}
+
+.atendimento {
+    margin-top: 10px;
+    color: #fff;
+    
+    display: flex;
+}
+.fone h3 {
+    margin-bottom: 15px;
+}
+.bg-atend {
+    display: flex;
+    flex-direction: column;
+
+    width: 235px;
+    height: 71px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 8px;
+}
+.bg-atend .title-atend {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
+.bg-atend .descricao-atend {
+    margin-top: 0px;
+    margin-left: 34px;
+    font-weight: 300;
+    font-size: 10px;
+    color: #9e9e9e;
+
+}
+.telefone {
+    display: flex;
+    margin-left: 10px;
+}
+.telefone .icon {
+    margin-right: 5px;
+}
+.telefone span .detal {
+    color: #ED3237;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.telefone span {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.whats {
+    margin-top: 35px;
+    margin-left: 12px;
+}
+.direitos {
+    display: flex;
+    justify-content: center;
+
+    color: #000;
+    font-size: 12px;
+    padding: 10px;
+}
