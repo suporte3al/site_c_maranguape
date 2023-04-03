@@ -1,0 +1,32 @@
+.contact {
+    background-color: #2D4689;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 160px;
+    height: 164px;
+}
+
+.encarte {
+    display: flex;
+    gap: 30px;
+    width: 193px;
+    height: 82px;
+}
+
+.compre-tel {
+    display: flex;
+    gap: 30px;
+
+    width: 193px;
+    height: 82px;
+
+}
+.redes {
+    display: flex;
+    gap: 30px;
+
+    width: 193px;
+    height: 82px;
+
+}

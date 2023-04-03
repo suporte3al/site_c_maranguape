@@ -36,6 +36,7 @@
 }
 .sobre .suporte, h6 {
     margin-top: 10px;
+    color: #fff;
 }
 .sobre .suporte, h6:hover {
     color: #ED3237;
