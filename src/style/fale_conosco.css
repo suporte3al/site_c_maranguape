@@ -15,13 +15,22 @@
     gap: 30px;
     align-items: center;
 }
-
+.ativo {
+  text-decoration: underline;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
 p {
     margin-top: 20px;
     width: 193px;
-    height: 82px;
+    /*height: 82px;*/
     font-weight: 700;
     font-size: 24px;
     line-height: 29px;
     color: #FFFFFF;
+}
+.perfil {
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
 }
